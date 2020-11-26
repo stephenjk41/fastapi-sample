@@ -5,8 +5,11 @@ channels:
 
 dependencies:
   - python=3.7
-  - pip
   # Core scientific python
   - numpy
   - matplotlib
   - fastapi
+  - uvicorn
+  - setuptools
+  - pip:
+    - .

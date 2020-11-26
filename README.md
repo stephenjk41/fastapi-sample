@@ -10,4 +10,6 @@ Fast API Sample Project
 - Type in this command: ```echo ". ${PWD}/conda.sh" >> ~/.bashrc``` or ```$ echo ". '${PWD}'/conda.sh" >> ~/.bashrc```
 - Open the project in git bash and type in ```conda env create -f resources/envoirnment.yml```
 - Then type ``` conda activate fastapi-sample-dev ``` to activate the enviornment
+- Once enviornment is activated run ```pip install -e .```
+- Then to run the server run ``` sh run-service.sh``` and then go to ```localhost:8000``` in the browser
 

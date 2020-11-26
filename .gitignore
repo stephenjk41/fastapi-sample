@@ -72,6 +72,10 @@ typings/
 .env
 .env.test
 
+# local files
+fastapi_sample.egg-info/
+__pycache__/
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
