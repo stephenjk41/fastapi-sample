@@ -14,4 +14,5 @@ Fast API Sample Project
 ### 4. Running the server
 - Once enviornment is activated run ```pip install -e .```
 - Then to run the server run ``` sh run-service.sh``` and then go to ```localhost:8000``` in the browser
+- ```localhost:8000/docs``` shows OpenAPI documentation for all the endpoints
 
