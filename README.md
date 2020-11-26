@@ -9,7 +9,7 @@ Fast API Sample Project
 - Open {Wherever anaconda is located} > anaconda3 > etc > profile.d in git bash
 - Type in this command: ```echo ". ${PWD}/conda.sh" >> ~/.bashrc``` or ```$ echo ". '${PWD}'/conda.sh" >> ~/.bashrc```
 ### 3. Create and activate conda enviornment 
-- Open the project in git bash and type in ```conda env create -f resources/envoirnment.yml```
+- Open the project in git bash and type in ```conda env create -f resources/environment.yml```
 - Then type ``` conda activate fastapi-sample-dev ``` to activate the enviornment
 ### 4. Running the server
 - Once enviornment is activated run ```pip install -e .```
