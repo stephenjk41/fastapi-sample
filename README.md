@@ -2,7 +2,7 @@
 Fast API Sample Project
 
 
-# This project uses anaconda3 and conda enviornments
+## This project uses anaconda3 and conda enviornments
 
 ### 1. To use conda make sure you have anaconda3 and git bash installed
 ### 2. Make sure bash has access to conda
@@ -15,4 +15,7 @@ Fast API Sample Project
 - Once enviornment is activated run ```pip install -e .```
 - Then to run the server run ``` sh run-service.sh``` and then go to ```localhost:8000``` in the browser
 - ```localhost:8000/docs``` shows OpenAPI documentation for all the endpoints
+
+
+## Static File Hosting:
 
