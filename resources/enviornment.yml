@@ -1,0 +1,12 @@
+name: fastapi-sample-dev
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.7
+  - pip
+  # Core scientific python
+  - numpy
+  - matplotlib
+  - fastapi
