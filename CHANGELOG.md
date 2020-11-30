@@ -1,10 +1,10 @@
 # Unreleased
 
-# Added: 
+## Added: 
 
-# Changed:
+## Changed:
 
-# Removed
+## Removed
 
 # v0.0.1
 
