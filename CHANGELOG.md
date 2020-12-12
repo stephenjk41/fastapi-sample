@@ -1,6 +1,7 @@
 # Unreleased
 
 ## Added: 
+ - Three JS rendered object using JavaScript
 
 ## Changed:
 
