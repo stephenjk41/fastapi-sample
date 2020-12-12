@@ -2,6 +2,7 @@ from fastapi import APIRouter
 
 router = APIRouter()
 
-@router.get('/test')
+@router.post('/test')
 async def test_router():
-    return {"message": "Hello World from a router"}
+    result = {'message': "hello world"}
+    return result
