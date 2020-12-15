@@ -1,0 +1,19 @@
+{
+    "type": "material",
+    "color": { "r": 0.3, "g": 0.3, "b": 1.0 },
+
+    "nodes": [
+        {
+            "type": "rotate",
+            "id": "myRotate",
+            "y": 1.0,
+            "angle": 0,
+
+            "nodes": [
+                {
+                    "type": "geometry/teapot"
+                }
+            ]
+        }
+    ]
+}
